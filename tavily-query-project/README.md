@@ -39,6 +39,13 @@ tavily-query-project
    ```
 It will automatically handle follow-up questions for you too.
 
+## Example
+After mentioning a topic for the web-scraper to scarp on, user can ask follow-up questions. 
+Responses for the questions are provided with working reference links for the user to dive deeper into.
+
+![image](https://github.com/user-attachments/assets/0bd8d950-b263-4ca3-9ef6-7e1ba3be01e5)
+
+
 ## Contributing
 
 Feel free to submit issues or pull requests for enhancements or bug fixes. 
