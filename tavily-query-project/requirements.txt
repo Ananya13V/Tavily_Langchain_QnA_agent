@@ -1,0 +1,7 @@
+Tavily
+Langchain
+python-dotenv
+getpass
+tavily-python
+langchain-tavily
+langchain_community
